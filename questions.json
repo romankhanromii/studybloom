@@ -1,0 +1,90 @@
+[
+  {
+    "text": "What is the capital of Pakistan?",
+    "category": "anatomic",
+    "difficulty": "easy",
+    "diagram": false,
+    "options": [
+      {
+        "text": "Karachi, Lahore, Islamabad, Rawalpindi",
+        "explanation": "Karachi is the largest city but not the capital.",
+        "isCorrect": false
+      },
+      {
+        "text": "Islamabad",
+        "explanation": "Islamabad became the capital of Pakistan in 1967, replacing Karachi.",
+        "isCorrect": true
+      },
+      {
+        "text": "Lahore",
+        "explanation": "Lahore is a major cultural city but not the capital.",
+        "isCorrect": false
+      },
+      {
+        "text": "Rawalpindi",
+        "explanation": "Rawalpindi is a neighboring city but not the capital.",
+        "isCorrect": false
+      }
+    ],
+    "summary": "Islamabad is the capital and federal territory of Pakistan."
+  },
+  {
+    "text": "Who is known as the father of computers?",
+    "category": "clinical",
+    "difficulty": "easy",
+    "diagram": false,
+    "options": [
+      {
+        "text": "Charles Babbage",
+        "explanation": "Charles Babbage designed the Analytical Engine, considered the first general-purpose computer.",
+        "isCorrect": true
+      },
+      {
+        "text": "Newton",
+        "explanation": "Newton was a physicist and mathematician, not the father of computers.",
+        "isCorrect": false
+      },
+      {
+        "text": "Einstein",
+        "explanation": "Einstein was a theoretical physicist, not related to computer development.",
+        "isCorrect": false
+      },
+      {
+        "text": "Tesla",
+        "explanation": "Tesla was an inventor and electrical engineer, but not the father of computers.",
+        "isCorrect": false
+      }
+    ],
+    "summary": "Charles Babbage is credited as the father of computers for his work on mechanical computing devices."
+  },
+  {
+    "text": "What does HTML stand for?",
+    "category": "anatomic",
+    "difficulty": "medium",
+    "diagram": false,
+    "options": [
+      {
+        "text": "HyperText Markup Language",
+        "explanation": "HTML stands for HyperText Markup Language, the standard language for creating web pages.",
+        "isCorrect": true
+      },
+      {
+        "text": "HighText Machine Learning",
+        "explanation": "This is not what HTML stands for.",
+        "isCorrect": false
+      },
+      {
+        "text": "Hyper Transfer Machine Language",
+        "explanation": "This is incorrect. HTML is not related to machine language in this way.",
+        "isCorrect": false
+      },
+      {
+        "text": "None",
+        "explanation": "HTML does stand for something specific.",
+        "isCorrect": false
+      }
+    ],
+    "summary": "HTML (HyperText Markup Language) is the standard markup language for documents designed to be displayed in a web browser."
+  }
+]
+
