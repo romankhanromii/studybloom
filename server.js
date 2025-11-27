@@ -25,9 +25,9 @@ const FRONTEND_URL = process.env.FRONTEND_URL || 'http://localhost:8080';
 
 // Middleware
 app.use(cors({
-  origin: FRONTEND_URL,
-  credentials: true
+  origin: '*'
 }));
+
 // Stripe webhook must be registered BEFORE any body parsers on that route
 app.post('/api/stripe/webhook', express.raw({ type: 'application/json' }), stripeWebhook);
 
